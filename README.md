@@ -241,7 +241,7 @@ ChainRails™ can operate independently or as part of the NOVA X Quantum™️ c
 
 ## 🚀 Deployment & Licensing
 
-### Tier 1–2 — Hosted Integration
+### Tier 1–2 — Hosted Integration (Coming Soon)
 - optionally accessible via ACEPLACE™ runtime  
 - managed environment for rapid deployment  
 - available at https://www.acelogic.ai  
