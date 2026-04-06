@@ -1,9 +1,7 @@
 # 🚆 CHAINRAILS™ — Public Repository  
 Deterministic Settlement Infrastructure for Autonomous Systems
 
-ChainRails™ is the settlement layer of NOVA X Quantum™️ infrastructure.
-
-It enables identity-bound, policy-compliant transactions across distributed systems, ensuring that execution is finalized, validated, and settled with deterministic integrity.
+ChainRails™ is the settlement infrastructure of NOVA X Quantum™️, operating as an independent, licensable system for deterministic, identity-bound transactions across distributed and multi-ledger environments.
 
 ---
 
@@ -54,7 +52,7 @@ These implementations demonstrate:
 
 ## 🔗 Phase 3 — Cross-Ledger Continuity (Live)
 
-ChainRails™ now operates a cross-ledger continuity model across multiple execution environments.
+ChainRails™ operates a cross-ledger continuity model across multiple execution environments.
 
 ### Core Model
 
@@ -92,9 +90,9 @@ This toggle:
 
 RVRs remain:
 
-- ledger-level  
 - canonical  
-- continuity-preserving across all views  
+- continuity-preserving  
+- ledger-independent in verification  
 
 ---
 
@@ -137,7 +135,7 @@ Truth is not.
 
 ChainRails™ includes a live operational dashboard for monitoring execution, settlement, and continuity across environments.
 
-🔗 https://www.chainrails.ai/operator-dashboard
+https://www.chainrails.ai/operator-dashboard
 
 The dashboard provides:
 
@@ -147,9 +145,7 @@ The dashboard provides:
 - cross-ledger activity monitoring  
 - system-level operational transparency  
 
----
-
-This dashboard reflects the active state of ChainRails™ settlement and continuity infrastructure in real time.
+This dashboard reflects the active state of ChainRails™ infrastructure in real time.
 
 ---
 
@@ -192,25 +188,25 @@ Execution is not considered complete until it is:
 
 ## 🔁 How It Works (High-Level)
 
-### 1. Execution Output
-An agent completes a task inside ACEPLACE™.
+### 1. Execution Output  
+An agent completes a task in any execution environment (e.g., ACEPLACE™ or external systems).
 
-### 2. Authority Validation
+### 2. Authority Validation  
 Validated through:
 - ACELOGIC™ identity  
 - Machine Grammar `#us#`  
 
-### 3. Settlement Preparation
+### 3. Settlement Preparation  
 Structured transaction including:
 - identity  
 - authority scope  
 - jurisdiction  
 - transaction parameters  
 
-### 4. Deterministic Settlement
+### 4. Deterministic Settlement  
 ChainRails™ processes and validates the transaction.
 
-### 5. Settlement Finality
+### 5. Settlement Finality  
 Finalized only when all constraints are satisfied.
 
 ---
@@ -233,20 +229,22 @@ ACELOGIC™ (Identity & Continuity)
 ↓  
 Machine Grammar `#us#` (Authority Routing)  
 ↓  
-ACEPLACE™ (Execution)  
+Execution Environments (ACEPLACE™ or external systems)  
 ↓  
 CHAINRAILS™ (Settlement)  
 ↓  
 Continuity Notary™ (Certification)  
+
+ChainRails™ can operate independently or as part of the NOVA X Quantum™️ control-plane stack.
 
 ---
 
 ## 🚀 Deployment & Licensing
 
 ### Tier 1–2 — Hosted Integration
-- integrated within ACEPLACE™ runtime  
-- managed environment  
-- accessible via https://www.acelogic.ai  
+- optionally accessible via ACEPLACE™ runtime  
+- managed environment for rapid deployment  
+- available at https://www.acelogic.ai  
 
 ---
 
@@ -257,10 +255,31 @@ Continuity Notary™ (Certification)
 
 ---
 
+### Direct Licensing
+
+ChainRails™ is available as independent infrastructure for:
+
+- sovereign institutions  
+- regulated financial entities  
+- enterprise-scale operators  
+
+Deployments are scoped based on:
+
+- jurisdiction  
+- compliance requirements  
+- transaction volume and scale  
+
+ChainRails™ does not require ACEPLACE™ to operate.  
+It integrates where needed, but remains a standalone settlement system.
+
+---
+
 ## 🌍 Core Principle
 
 Execution produces outcomes.  
 Settlement makes them accountable and final.  
+
+ChainRails™ is not tied to a single execution environment or application layer.
 
 ---
 
@@ -293,7 +312,7 @@ This repository is licensed for:
 
 Deployment requires a commercial license.
 
-📩 licensing@novaxquantum.com  
+licensing@novaxquantum.com  
 
 ---
 
@@ -313,4 +332,4 @@ Execution without settlement is unresolved.
 Settlement without identity is invalid.  
 Settlement without continuity is unprovable.  
 
-**ChainRails™ ensures all three.**
+ChainRails™ ensures all three.
